@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://create.roblox.com/talent/creators/1051594227](https://create.roblox.com/talent/creators/1051594227)
 
-- 💬 Ask me about **lua, react, vue, python, java, typescript**
+- 💬 Ask me about **lua/luau, react, vue, python, java, typescript**
 
-- 📫 How to reach me **ttxxjjz@gmail.com**
+- 📫 How to reach me **ttxxjjz@gmail.com or via discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
