@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ttx</h1>
 <h3 align="center">Full-Stack Programmer | 7+ Years of Frontend & Backend Experience</h3>
 
-- 🌱 I’m currently learning **Djano, Express.js**
+- 🌱 I’m currently learning **Djano**
 
 - 👨‍💻 All of my projects are available at [https://create.roblox.com/talent/creators/1051594227](https://create.roblox.com/talent/creators/1051594227)
 
