@@ -1,5 +1,5 @@
 # 💫 About Me:
-Polyglot Full-Stack Programmer | 7+ Years Frontend & Backend<br><br>🌱 I’m currently learning Djano, Express.js<br><br>👨‍💻 All of my projects are available at https://create.roblox.com/talent/creators/1051594227<br><br>💬 Ask me about lua/luau, react, vue, python, java, typescript<br><br>📫 How to reach me ttxxjjz@gmail.com or via discord
+Polyglot Full-Stack Programmer | 7+ Years Frontend & Backend<br><br>🌱 I’m currently learning Djano<br><br>👨‍💻 All of my projects are available at https://create.roblox.com/talent/creators/1051594227<br><br>💬 Ask me about lua/luau, react, vue, python, java, typescript<br><br>📫 How to reach me ttxxjjz@gmail.com or via discord
 
 
 ## 🌐 Socials:
